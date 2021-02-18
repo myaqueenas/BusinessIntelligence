@@ -1,5 +1,8 @@
 # BusinessIntelligence
 ## The Gym Group Plc – Company report
+
+![Figure0](https://github.com/myaqueenas/BusinessIntelligence/blob/main/thegymlogo2.jpg?raw=true)
+
 ### Youngjin Noh
 
 ### 1. Introduction
